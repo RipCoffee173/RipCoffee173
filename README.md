@@ -1,0 +1,10 @@
+- Hello I'm Rip_Coffee#9059
+- I'm the Creator of TheAdam | Multipurpose Discord Bot
+- Invite TheAdam - https://discord.com/oauth2/authorize?client_id=1100378545487880242&scope=bot%20applications.commands&permissions=2146958847
+- Join TheAdam's Garden - https://discord.gg/My6GF54uFS
+- About Me:
+- I'm a Single 14 Year old Discord Bot Developer
+- I code in Javascript,Python & Extras: BDFD
+- I use Visual Studio Code.
+- Need Help? Join TheAdam's Garden | DM me at Rip_Coffee#9059
+- Ty everyone for reading this have a good day!
